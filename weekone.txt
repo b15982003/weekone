@@ -1,0 +1,24 @@
+1、
+a、對，id 可以放任何數字
+b、錯，Int是表示整數
+c、對，title可以放入任何文字
+d、錯，須在null前後加上"使他成立
+e、對，用double讓他呈現小數點
+f、錯，要改成List<String?>
+g、錯，List<String?>後面不需要再加？
+h、對
+i、錯，不需要加？也可把null算在數量裡
+
+2、
+c.Your grace
+
+lengh計算他額自數後選擇輸出
+
+3、
+d.
+第一個Array(6)代表有六個陣列數字
+1000.pow()平方第幾次陣列
+bytes後面不用加\n隔開
+
+
+
